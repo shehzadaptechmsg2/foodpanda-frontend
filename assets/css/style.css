@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+*{
+    font-family: 'Roboto Mono', monospace;
+}
+.fa-user{
+    background-color: #D70F64;
+ width: 35px;
+ height: 35px;
+   border-radius: 500px;
+   text-align: center;
+   line-height: 150%;
+color: white;
+}
+.fa-shopping-cart{
+    color: #D70F64;
+    line-height: 150%;
+}
+.bg{
+    background-image: url("../images/hero-home-pk.webp");
+    height: 70vh;
+    background-position: 50% 100%;
+  
+    background-repeat: no-repeat;
+    background-position: 100%;
+}
+.bg1{
+    background-image: url("../images/home-vendor-pk.webp");
+    height: 60vh;
+
+    background-position: 100%;
+    background-repeat: no-repeat;
+}
+.mx-5{
+    position: relative;
+    top: 200px;
+   
+}
+.input-group-text{
+
+    height: 64px;
+    line-height: 62px;
+    padding: 0 31px;
+    background: #D70F64;
+        border: none;
+        color: white;
+    z-index: 1;
+    cursor: pointer;
+    position: relative;
+    border-radius: 20px;
+}
+.partner-text{
+    color: rgba(0, 0, 0, 0.148);
+font-size: 140px;
+}
+.partner-prg{
+font-size: xx-large;
+position: relative;
+bottom: 100px;
+}
+.btn-color{
+   background-color: #D70F64;; 
+}
+.card-body{
+    position: relative;
+    top: 50px;
+}
